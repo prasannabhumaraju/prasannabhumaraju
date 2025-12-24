@@ -1,24 +1,24 @@
-👋 Hello, I'm Prasanna Bhumaraju
+# 👋 Hello, I'm **Prasanna**
 
-🚀 Python & Web Developer | MCA Student  
-🎯 Passionate about solving real-world problems using Full Stack Development
+🚀 **Python & Web Developer | MCA Student**  
+🎯 *Passionate about solving real-world problems using Full Stack Development*
 
 ---
 
-## 💼 About Me
+## 💼 **About Me**
 
-🔭 MCA student with strong foundation in Python and Web technologies  
-🧠 Interested in building practical software solutions  
-🧑‍💻 Love working on small projects to improve my coding skills  
-🌱 Currently improving my backend and database knowledge  
-💬 Ask me about Python, HTML, CSS, JavaScript, or MySQL  
+🔭 **MCA student** with a strong foundation in **Python** and **Web technologies**  
+🧠 Interested in building **practical software solutions**  
+🧑‍💻 Love working on **hands-on projects** to improve my coding skills  
+🌱 Currently improving my **backend and database knowledge**  
+💬 Ask me about **Python, HTML, CSS, JavaScript, or MySQL**  
 📫 Reach me anytime!
 
-Email: Prasannabhumaraju1@gmail.com
+📧 **Email:** Prasannabhumaraju1@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ **Tech Stack & Skills**
 
 **Languages & Databases:**  
 Python • MySQL  
@@ -34,24 +34,21 @@ Git • GitHub • VS Code
 
 ---
 
-## 📂 Projects
+## 📂 **Projects**
 
-### 🎮 Tic-Tac-Toe Game  
-HTML • CSS • JavaScript  
+### 🎮 **Tic-Tac-Toe Game**  
+*HTML • CSS • JavaScript*  
 
-### 🚇 Metro Ticketing System  
-Python • MySQL  
-
----
-
-## 🌐 Connect with Me
-
-📫 Email: Prasannabhumaraju1@gmail.com  
-📍 Location: Hyderabad
+### 🚇 **Metro Ticketing System**  
+*Python • MySQL*  
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌐 **Connect with Me**
 
-⭐ Thanks for visiting my profile!
+📧 **Email:** Prasannabhumaraju1@gmail.com  
+📍 **Location:** Hyderabad  
 
+---
+
+⭐ *Thanks for visiting my profile!*
