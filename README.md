@@ -3,42 +3,55 @@
 🚀 Python & Web Developer | MCA Student  
 🎯 Passionate about solving real-world problems using Full Stack Development
 
-💼 About Me
+---
 
+## 💼 About Me
 
 🔭 MCA student with strong foundation in Python and Web technologies  
 🧠 Interested in building practical software solutions  
 🧑‍💻 Love working on small projects to improve my coding skills  
 🌱 Currently improving my backend and database knowledge  
 💬 Ask me about Python, HTML, CSS, JavaScript, or MySQL  
-📫 Reach me anytime!📫Email: Prasannabhumaraju1@gmail.com
+📫 Reach me anytime!
 
-🛠️ Tech Stack & Skills
+Email: Prasannabhumaraju1@gmail.com
 
+---
 
-Languages & Databases:Python • MySQL  
-Web & Frontend:HTML • CSS • JavaScript  
-Backend & Concepts:Basic Backend Logic • Database Design • REST Basics  
+## 🛠️ Tech Stack & Skills
 
-Tools: 
-
-Git • GitHub • VS Code  
-
-📂 Projects
-
-
-🎮 Tic-Tac-Toe Game  
-HTML • CSS • JavaScript  
-🚇 Metro Ticketing System  
+**Languages & Databases:**  
 Python • MySQL  
 
-🌐 Connect with Me
+**Web & Frontend:**  
+HTML • CSS • JavaScript  
 
+**Backend & Concepts:**  
+Basic Backend Logic • Database Design • REST Basics  
 
-📫 Email: Prasannabhumaraju1@gmail.com
-🔗 LinkedIn:www.linkedin.com/in/prasanna-bhumaraju-95076b304
+**Tools:**  
+Git • GitHub • VS Code  
+
+---
+
+## 📂 Projects
+
+### 🎮 Tic-Tac-Toe Game  
+HTML • CSS • JavaScript  
+
+### 🚇 Metro Ticketing System  
+Python • MySQL  
+
+---
+
+## 🌐 Connect with Me
+
+📫 Email: Prasannabhumaraju1@gmail.com  
 📍 Location: Hyderabad
 
+---
+
+⭐ Thanks for visiting my profile!
 
 ⭐ Thanks for visiting my profile!
 
