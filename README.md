@@ -46,7 +46,7 @@ Git • GitHub • VS Code
 
 🔗[LinkedIn](https://www.linkedin.com/in/prasanna-bhumaraju-95076b304)
 
-[🌍 Portfolio Website](https://prasannabhumaraju.github.io/Prasanna-portfolio/)
+[🌍 Portfolio Website](https://prasanna-bhumaraju-portfoilo.netlify.app/)
 
 
 
