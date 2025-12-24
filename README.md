@@ -1,7 +1,7 @@
-# 👋 Hello, I'm **Prasanna**
+# 👋 Hello, I'm **Prasanna Bhumaraju**
 
 🚀 **Python & Web Developer | MCA Student**  
-🎯 *Passionate about solving real-world problems using Full Stack Development*
+🎯 **Passionate about solving real-world problems using Full Stack Development**
 
 ---
 
@@ -13,21 +13,17 @@
 🌱 Currently improving my **backend and database knowledge**  
 💬 Ask me about **Python, HTML, CSS, JavaScript, or MySQL**  
 📫 Reach me anytime!
-
 📧 **Email:** Prasannabhumaraju1@gmail.com  
 
 ---
 
 ## 🛠️ **Tech Stack & Skills**
 
-**Languages & Databases:**  
-Python • MySQL  
+**Languages & Databases:** Python • MySQL  
 
-**Web & Frontend:**  
-HTML • CSS • JavaScript  
+**Web & Frontend:** HTML • CSS • JavaScript  
 
-**Backend & Concepts:**  
-Basic Backend Logic • Database Design • REST Basics  
+**Backend & Concepts:** Basic Backend Logic • Database Design • REST Basics  
 
 **Tools:**  
 Git • GitHub • VS Code  
@@ -46,7 +42,8 @@ Git • GitHub • VS Code
 
 ## 🌐 **Connect with Me**
 
-📧 **Email:** Prasannabhumaraju1@gmail.com  
+📧 **Email:** Prasannabhumaraju1@gmail.com
+🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanna%20Bhumaraju-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-bhumaraju-95076b304)
 📍 **Location:** Hyderabad  
 
 ---
