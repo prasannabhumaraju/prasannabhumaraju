@@ -46,7 +46,7 @@ Git • GitHub • VS Code
 
 🔗[LinkedIn](https://www.linkedin.com/in/prasanna-bhumaraju-95076b304)
 
-🌍Prasanna-portfolio
+🌍https://prasannabhumaraju.github.io/Prasanna-portfolio/
 
 📍 **Location:** Hyderabad  
 
