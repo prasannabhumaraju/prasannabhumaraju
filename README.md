@@ -43,7 +43,9 @@ Git • GitHub • VS Code
 ## 🌐 **Connect with Me**
 
 📧 **Email:** Prasannabhumaraju1@gmail.com
-🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanna%20Bhumaraju-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-bhumaraju-95076b304)
+
+🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanna%20Bhumaraju-blue?logo=linkedin&logoColor=white)]
+
 📍 **Location:** Hyderabad  
 
 ---
